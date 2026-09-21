@@ -1,5 +1,11 @@
 # Windows in Docker
 
+**Languages:** [English](README.md) · [Українська](README.uk.md)
+
+> By [Boryslav Deputat](https://github.com/boryslavdeputat) - Cloud / SRE / Platform.
+> Built with **KLAV (UA AI) / КЛАВ (УКР ШІ)**.
+> Sites: [Portfolio](https://boryslavdeputat.com/) · [ClawDBot](https://clawdbot.llc/) · [AI hub](https://boryslavdeputat.github.io/boryslavdeputat/)
+
 Run a full Windows installation inside a Docker container, with KVM
 hardware acceleration and a browser-based viewer (noVNC). Built on top of
 [dockur/windows](https://github.com/dockur/windows).
