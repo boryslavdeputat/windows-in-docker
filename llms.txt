@@ -1,0 +1,7 @@
+# Windows in Docker
+> Run a full Windows installation inside a Docker container with KVM acceleration, by Boryslav Deputat.
+
+- GitHub: https://github.com/boryslavdeputat/windows-in-docker
+- Author: Boryslav Deputat · info@boryslavdeputat.com · https://boryslavdeputat.com/
+- Profile llms: https://boryslavdeputat.github.io/boryslavdeputat/llms.txt · Site llms: https://boryslavdeputat.com/llms.txt
+- Includes: docker-compose.yml packaging dockur/windows, KVM hardware acceleration, browser (noVNC) + RDP access, persistent storage, EN+UK README
